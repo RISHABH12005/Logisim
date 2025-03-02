@@ -1,11 +1,11 @@
 # Logisim - Digital Logic Circuit Simulator  
 
-Logisim is an open-source digital circuit design and simulation tool, widely used for education & hardware prototyping.  
+An open-source digital circuit design & simulation tool, widely used for education & hardware prototyping.  
 
 ## Features  
 
 ### Open-Source & Free  
-Logisim is completely free to use and open-source, making it accessible for students, educators, professionals.  
+Logisim is completely free to use & open-source, making it accessible for students, educators, professionals.  
 
 ### Graphical Circuit Design  
 - Provides a *drag-and-drop* interface for easy circuit creation.  
@@ -32,7 +32,7 @@ Logisim is completely free to use and open-source, making it accessible for stud
 - Does not require high-end hardware.  
 
 ### Minimal System Requirements  
-- Lightweight and optimized for smooth performance on *low-end computers*.  
+- Lightweight & optimized for smooth performance on *low-end computers*.  
 - No need for a dedicated graphics card or large memory.  
 
 ### Extensibility  
