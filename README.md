@@ -43,4 +43,4 @@ Logisim is completely free to use & open-source, making it accessible for studen
 - Useful for testing logic *before implementing on real hardware* like *FPGAs or microcontrollers*.  
 
 ## Download & Documentation  
-- [Official Website](http://www.cburch.com/logisim/)  
+- [Logisim](http://www.cburch.com/logisim/)  
