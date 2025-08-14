@@ -28,7 +28,7 @@ Logisim is completely free to use & open-source, making it accessible for studen
 - Used in universities & schools worldwide for teaching.  
 
 ### Cross-Platform Compatibility  
-- Works on *Windows, macOS, Linux*.  
+- Works on *Windows, Linux*.  
 - Does not require high-end hardware.  
 
 ### Minimal System Requirements  
